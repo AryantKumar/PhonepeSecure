@@ -1,0 +1,11 @@
+<resources>
+    <!-- App theme -->
+    <style name="Theme.PhonePeSecure" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- your app styles -->
+    </style>
+
+    <!-- Launch theme - no drawable, only black background -->
+    <style name="Theme.PhonePeSecure.Launcher" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
